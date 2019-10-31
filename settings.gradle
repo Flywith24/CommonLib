@@ -1,2 +1,2 @@
-include ':app', ':baselib'
+include ':baselib-simple', ':baselib'
 rootProject.name='CommonLib'
